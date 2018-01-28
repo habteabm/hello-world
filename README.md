@@ -1,3 +1,3 @@
 # hello-world
 testing
-Tis is just an intial hello-world project test
+This is just an intial hello-world project test
